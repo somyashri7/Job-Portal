@@ -8,7 +8,7 @@ A full-stack job portal application built with **MongoDB, Express.js, React.js, 
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/MohitPatel2170/MERN--Job-Portal.git
+git clone https://github.com/somyashri7/MERN--Job-Portal.git
 cd MERN--Job-Portal
 
 📂 Navigate to the backend folder:
